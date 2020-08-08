@@ -1,5 +1,5 @@
-from lib.models import User
-from lib.views import UserSchema
+from src.lib.models import User
+from src.lib.views import UserSchema
 
 import flask
 import json
